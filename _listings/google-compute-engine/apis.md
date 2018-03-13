@@ -26,7 +26,7 @@ apis:
   tags: Proxy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/proxy/master/_listings/google-compute-engine/project-global-targethttpsproxies-targethttpsproxy-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/proxy/master/_listings/google-compute-engine/project-global-targetsslproxies-get.md
 x-common:
 - type: x-code
   url: https://cloud.google.com/compute/docs/api/libraries
